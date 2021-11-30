@@ -8,3 +8,7 @@ Unter folgenden Link finden sie weiterführende Information zu Python:
 
 - https://www.python-kurs.eu/python3_kurs.php (Deutschsprachiges Tutorial)
 
+
+### Literatur
+
+- Weitz, Edmund: Konkrete Mathematik (nicht nur) für Informatiker: Mit vielen Grafiken und Algorithmen in Python (http://weitz.de/KMFI/)
